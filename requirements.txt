@@ -1,0 +1,6 @@
+numpy
+NLTK
+lxml
+bs4
+utllib
+PyTorch>0.4.0
